@@ -13,7 +13,8 @@ Bu repo kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo,İçerisinde 
 Projeyi klonladıktan sonra VSC programında açın 
 Linux için  :
 
-`cd kodluyoruzilkrepo <br>
+`cd kodluyoruzilkrepo
+<br>
 code .`
 
 # Contributing
@@ -22,6 +23,5 @@ Pull requestler kabul edilir.Büyük değişkenler için,lütfen önce neyi değ
 
 # Lisence 
 
-`git status`
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
